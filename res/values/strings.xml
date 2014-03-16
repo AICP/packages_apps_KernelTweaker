@@ -29,6 +29,10 @@
     <string name="reboot">Reboot</string>
     <string name="no_backups_found">No Backups Found</string>
     <string name="backups_display">The backups you make will be displayed here</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="help">Help</string>
+    <string name="edit_mode">Edit mode</string>
 
     <!-- About -->
     <string name="title_about">About</string>
