@@ -28,16 +28,6 @@
     <PreferenceCategory android:title="Open Source Projects" >
         <Preference android:summary="Some classes and xmls are based on the open source projects listed below." />
         <com.dsht.kerneltweaker.InfoPreference
-            android:key="key_du"
-            android:title="Dirty Unicorns"
-            app:image="@drawable/du"
-            app:button1_text="@string/b1text"
-            app:button2_text="@string/b2text"
-            app:button3_text="@string/b3text"
-            app:button1_link="@string/du_gplus"
-            app:button2_link="@string/du_github"
-            app:button3_link="@string/du_donate" />
-        <com.dsht.kerneltweaker.InfoPreference
             android:key="key_aicp"
             android:title="AICP"
             app:image="@drawable/aicp"
@@ -47,6 +37,16 @@
             app:button1_link="@string/aicp_gplus"
             app:button2_link="@string/aicp_github" 
             app:button3_link="@string/aicp_donate"/>
+        <com.dsht.kerneltweaker.InfoPreference
+            android:key="key_du"
+            android:title="Dirty Unicorns"
+            app:image="@drawable/du"
+            app:button1_text="@string/b1text"
+            app:button2_text="@string/b2text"
+            app:button3_text="@string/b3text"
+            app:button1_link="@string/du_gplus"
+            app:button2_link="@string/du_github"
+            app:button3_link="@string/du_donate" />
         <com.dsht.kerneltweaker.InfoPreference
             android:key="key_aokp"
             android:title="AOKP"
